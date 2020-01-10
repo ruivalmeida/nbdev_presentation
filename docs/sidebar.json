@@ -1,6 +1,6 @@
 {
   "nbdev_presentation": {
     "Overview": "/",
-    "module name here": "/core"
+    "Greeter": "/greeter"
   }
 }
